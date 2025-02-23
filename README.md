@@ -2,6 +2,7 @@
 This project is a responsive clone of the Netflix homepage, developed using HTML and CSS. It aims to replicate the visual design and layout of Netflix, providing a similar user experience across various devices.
 
 🌟 Features
+
 Responsive Design: The layout adjusts seamlessly to different screen sizes, ensuring an optimal viewing experience on desktops, tablets, and mobile devices.
 
 Modern UI: Utilizes Flexbox and CSS Grid to create a clean and organized interface, closely mirroring Netflix's aesthetic.
@@ -13,6 +14,7 @@ Content Rows: Displays multiple rows of content categories with thumbnail images
 Footer: Incorporates a footer with additional links and information, maintaining consistency with the overall design.
 
 🛠️ Technologies Used
+
 HTML5: Structures the content and layout of the webpage.
 
 CSS3: Styles the visual components, employing Flexbox and Grid for layout management.
